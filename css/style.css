@@ -1,0 +1,19 @@
+body {background-color: rgb(199, 199, 204);}
+
+h1 {background-color: rgb(221, 114, 82);padding: 15px;}
+
+.text1 {background-color: rgb(230, 203, 185); padding: 10px;}
+
+h2 {background-color: rgb(228, 217, 69); padding: 15px;}
+
+.text2 {background-color: rgb(241, 230, 186); padding: 10px;}
+
+ol {font-size: 20px; background-color: cornsilk; padding: 15px;}
+
+li {margin-left: 3%;}
+
+.item1 {color: rgb(240, 19, 19);}
+.item2 {color: rgb(74, 185, 30);}
+.item3 {color: rgb(15, 30, 160);}
+.item4 {color: rgb(197, 20, 220);}
+.item5 {color: rgb(38, 42, 20);}
